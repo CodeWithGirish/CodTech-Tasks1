@@ -1,14 +1,11 @@
 Name: Girish Patil
-
 Company: CODTECH IT SOLUTIONS
-
 ID: CT6WDS681
-
 Domain: Java Development
-
 Duration: June to Aug 2024
 
 Project: Student Grade Tracker
+
 Objective:
 Introducing the Student Management System, a Java application made to make handling student data easier and more efficient. The system enables users to carry out a variety of functions pertaining to student information, grades, search and view student, also user can sort student according to specific parameter.
 
