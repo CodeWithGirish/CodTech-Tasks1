@@ -1,7 +1,11 @@
 Name: Girish Patil
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT6WDS681
+
 Domain: Java Development
+
 Duration: June to Aug 2024
 
 Project: Student Grade Tracker
