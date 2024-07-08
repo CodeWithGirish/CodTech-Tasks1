@@ -7,7 +7,7 @@
 **Domain**: Java Development
 
 **Duration**: June to Aug 2024
-
+-----------------------------------------------
 **Project**: Student Grade Tracker
 
 **Objective**:
